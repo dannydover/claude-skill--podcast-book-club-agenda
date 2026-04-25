@@ -1,9 +1,9 @@
 ---
-name: podcast-book-club
-description: "Use this skill whenever the user wants to create a podcast book club agenda, discussion guide, or dinner party conversation agenda based on a media episode (podcast, TV show, or movie). Trigger on phrases like 'book club agenda', 'podcast book club', 'dinner party discussion', 'discussion guide for [episode/movie/show]', 'create an agenda for [media]', or any request to generate structured conversation questions around a piece of media. Also trigger when the user references their 'Dinner Party' format or wants to plan a group discussion event around media consumption. Do NOT use for simple media summaries, reviews, or recommendations — this is specifically for generating a structured group discussion agenda."
+name: discussion-agenda
+description: "Use this skill whenever the user wants to create a discussion agenda, discussion guide, or structured conversation guide based on a media episode (podcast, TV show, or movie). Trigger on phrases like 'discussion agenda', 'discussion guide', 'dinner party discussion', 'discussion guide for [episode/movie/show]', 'create an agenda for [media]', or any request to generate structured conversation questions around a piece of media. Also trigger when the user references their 'Dinner Party' format or wants to plan a group discussion event around media consumption. Do NOT use for simple media summaries, reviews, or recommendations — this is specifically for generating a structured group discussion agenda."
 ---
 
-# Podcast Book Club Agenda Generator
+# Discussion Agenda Generator
 
 Generate a structured dinner party discussion agenda from a media episode (podcast, TV show, or movie). The output is a markdown file following a specific format designed to facilitate an in-person dinner party where guests have consumed the media beforehand.
 
@@ -39,7 +39,7 @@ Produce a markdown file following the exact structure below. Read `references/fo
 
 ### Step 4: Save and present
 
-Save the agenda as a markdown file named `YYYY-MM - Podcast Book Club Agenda.md` using the current month/year, and present it to the user.
+Save the agenda as a markdown file named `YYYY-MM - Discussion Agenda.md` using the current month/year, and present it to the user.
 
 ## Quality standards
 

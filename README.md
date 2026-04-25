@@ -22,7 +22,7 @@ Podcast Episode Example - [Radiolab - Colors](examples/radiolab-colors.md)
 
 
 **Sample prompt:**
-> "Create a podcast book club agenda for the *Radiolab* episode 'Colors'"
+> "Create a discussion agenda for the *Radiolab* episode 'Colors'"
 
 **Sample output structure:**
 ```
@@ -44,13 +44,13 @@ Upload the `SKILL.md` file via Settings → Skills
 ### Claude Code
 ```bash
 # Clone into your skills directory
-git clone https://github.com/dannydover/claude-skill--podcast-book-club-agenda ~/.claude/skills/podcast-book-club-agenda
+git clone https://github.com/dannydover/claude-skill--discussion-guide ~/.claude/skills/discussion-guide
 ```
 
 ## Usage
 
 Just ask Claude for an agenda:
-- "I'm hosting a dinner party to discuss the latest *Succession* episode — make me an agenda"
+- "I'm hosting a dinner party to discuss the latest *Succession* episode — make me a discussion agenda"
 - "Generate discussion questions for the new *Hardcore History* on the Bronze Age Collapse"
 
 Works for:
@@ -60,7 +60,7 @@ Works for:
 
 ## Why This Exists
 
-This skill was built for a recurring podcast book club dinner party format: a group of friends meets monthly to discuss a podcast episode over dinner. Rather than freeform conversation (which tends to drift) or overly rigid questions (which feel like homework), the agenda provides just enough structure to hit the interesting tensions without killing spontaneity.
+This skill was built for a recurring dinner party format: a group of friends meets monthly to discuss a podcast episode over dinner. Rather than freeform conversation (which tends to drift) or overly rigid questions (which feel like homework), the agenda provides just enough structure to hit the interesting tensions without killing spontaneity.
 
 If you run book clubs, watch parties, or discussion groups, this saves you 30 minutes of prep work per session.
 

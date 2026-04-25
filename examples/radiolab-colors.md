@@ -86,11 +86,11 @@ When you learn the science behind something beautiful, does it gain or lose some
   
 ## Clear Ending  
   
-*That’s the end of the 'official' podcast book club portion!*  
+*That’s the end of the ‘official’ discussion agenda portion!*  
   
 *What worked here, what didn’t?*  
   
-Any podcast episode recommendations for next time?  
+Any recommendations for what we should watch, read, or listen to for next time?  
   
   
   
