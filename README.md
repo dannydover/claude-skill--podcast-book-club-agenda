@@ -1,4 +1,4 @@
-# podcast-book-club-agenda
+# discussion-guide
 
 A Claude skill that generates structured discussion agendas for podcast episodes, TV shows, and movies. Built for group conversations — dinner parties, book clubs, watch parties.
 
