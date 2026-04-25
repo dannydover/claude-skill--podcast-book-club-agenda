@@ -1,15 +1,15 @@
-# Podcast Book Club Agenda — Format Guide
+# Discussion Agenda — Format Guide
 
 This file defines the exact output structure for every agenda. Follow it precisely.
 
 ## Output filename
 
-`YYYY-MM - Podcast Book Club Agenda.md` (using the current month and year)
+`YYYY-MM - Discussion Agenda.md` (using the current month and year)
 
 ## Template
 
 ```markdown
-# YYYY-MM - Podcast Book Club Agenda
+# YYYY-MM - Discussion Agenda
 Source: [Episode/Film Title](URL) — "[Episode/show name or subtitle]"
 
 
@@ -76,7 +76,7 @@ Get the whole group seated. *(If Small Groups was used, open with: "Anyone hear 
 
 ## Clear Ending
 
-*That's the end of the 'official' podcast book club portion!*
+*That's the end of the 'official' discussion agenda portion!*
 
 *What worked here, what didn't?*
 
